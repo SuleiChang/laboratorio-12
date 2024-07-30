@@ -30,19 +30,22 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Desarrollo
 
-### Formulario login
+### Formulario para imágenes
 
-![image](https://github.com/user-attachments/assets/a419764a-b690-4b4d-a3ae-a219aca727e0)
+![image](https://github.com/user-attachments/assets/8f5441a4-2b27-4430-9509-19f86e29388d)
 
-### Notificación de ingreso exitoso
+### Validaciones
 
-![image](https://github.com/user-attachments/assets/f0809c06-11f4-477e-9aed-1bdd319015b9)
+![image](https://github.com/user-attachments/assets/8834e9a7-52ea-4aff-9387-d77dcb48a16d)
 
-### Ruta protegida el contenido esta disponible con aunteticación
+![image](https://github.com/user-attachments/assets/ab6fa83a-c6c1-4c8d-9601-cf097226ce3e)
 
-![image](https://github.com/user-attachments/assets/120e418e-156a-47c9-a6a3-442cddd238b4)
+### Imagen correcta
 
-### Ruta protegida no se puede ver el contenido sin autenticación
+![image](https://github.com/user-attachments/assets/af657b01-d404-4065-b0be-9d29ba288784)
 
-![image](https://github.com/user-attachments/assets/95ef7e2c-16d2-44ad-b99a-a5ded30ef9ef)
+### Imagen Subida
+
+![image](https://github.com/user-attachments/assets/61c50116-a332-4d82-8de3-c44c182a3c63)
+
 
